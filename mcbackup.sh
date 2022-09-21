@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # This is a minecraft backup script. There are many like it, but this one is mine.
-# Written by: reppocs@gmail.com
+# Written by: creppond@proton.me
 #
 # Usage:
 # ./mcbackup.sh servername
